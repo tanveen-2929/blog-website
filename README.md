@@ -4,20 +4,20 @@ A full-stack blog website built to allow users to create, read, edit, and manage
 
 ## Tech Stack
 
-React.js
-Node.js
-Express.js
-MongoDB
-JavaScript
- HTML & CSS
+React.js,
+Node.js,
+Express.js,
+MongoDB,
+JavaScript,
+ HTML & CSS.
 
-##Features
+## Features
 
-Create blog posts
-Read blog posts
-Edit existing posts
-Delete posts
-Responsive user interface
+Create blog posts,
+Read blog posts,
+Edit existing posts,
+Delete posts,
+Responsive user interface.
 
 ## Author
 
