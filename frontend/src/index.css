@@ -1,0 +1,26 @@
+*{
+    
+    font-family: "Alegreya Sans", sans-serif;
+}
+body{
+    overflow-x: hidden !important;
+}
+.bgimg{
+    background-image: url(./assets/loginbg1.webp); 
+    background-size: cover;
+    min-height: 100vh;
+    overflow: hidden;  
+ }
+   input::placeholder{
+    color: grey !important;
+    opacity: 1;
+   }
+input:focus{outline: none !important;}
+ .navbar-nav{column-gap: 60px !important;}
+ .iclr{
+   color:rgb(169, 164, 164);
+ }
+
+.tagline{color:rgb(169, 164, 164); letter-spacing: 6.8px; font-size: 9.4px;}
+
+.auth-style{background: transparent; fill:none;}
